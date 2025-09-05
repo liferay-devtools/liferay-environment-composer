@@ -87,7 +87,7 @@ ext {
 
 				envPropertiesFile.parentFile
 			}
-			
+
 			if (!environmentFolders.isEmpty()) {
 				environmentFolder = environmentFolders.last()
 			}
